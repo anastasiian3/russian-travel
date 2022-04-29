@@ -1,0 +1,19 @@
+.page__place {
+  margin: 0 auto 80px;
+}
+
+.page__place:last-of-type {
+  margin-bottom: 0px;
+}
+
+@media screen and (max-width: 800px) {
+  .page__place {
+    margin: 0 auto 72px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .page__place {
+    margin: 0 auto 50px;
+  }
+}
