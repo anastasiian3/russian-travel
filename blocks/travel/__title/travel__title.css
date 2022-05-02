@@ -13,6 +13,7 @@
   .travel__title {
     font-size: 55px;
     line-height: 50px;
+    max-width: 670px;
   }
 }
 

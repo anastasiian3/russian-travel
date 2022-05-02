@@ -16,12 +16,14 @@
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/__lang-links/header__lang-links.css);
 @import url(../blocks/header/__lang-link/_active/header__lang-link_type_active.css);
+@import url(../blocks/header/__lang-link-margin/header__lang-link-margin.css);
 
 @import url(../blocks/travel/travel.css);
 @import url(../blocks/travel/__caption/travel__caption.css);
 @import url(../blocks/travel/__image/travel__image.css);
 @import url(../blocks/travel/__subtitle/travel__subtitle.css);
 @import url(../blocks/travel/__title/travel__title.css);
+@import url(../blocks/travel/__figure/travel__figure.css);
 
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__list-digits/intro__list-digits.css);
@@ -49,7 +51,6 @@
 @import url(../blocks/cover/__title/cover__title.css);
 
 @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/__content/_copyright/footer__content_copyright.css);
-@import url(../blocks/footer/__content/_links/footer__content_links.css);
+@import url(../blocks/footer/__content-links/footer__content-links.css);
 @import url(../blocks/footer/__link/footer__link.css);
-@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css); ;
