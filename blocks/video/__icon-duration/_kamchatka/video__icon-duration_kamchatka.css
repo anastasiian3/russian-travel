@@ -1,0 +1,16 @@
+.video__icon-duration_kamchatka {
+  background-image: url(../../../../images/duration-kamchatka.svg);
+  width: 44px;
+}
+
+@media screen and (max-width: 900px) {
+  .video__icon-duration_kamchatka {
+    margin-top: 38px;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .video__icon-duration_kamchatka {
+    margin-top: 48px;
+  }
+}

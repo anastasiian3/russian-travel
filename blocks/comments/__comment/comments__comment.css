@@ -1,0 +1,24 @@
+.comments__comment {
+  max-width: 382px;
+  display: grid;
+  align-self: flex-start;
+}
+
+@media screen and (max-width: 1185px) {
+  .comments__comment {
+    max-width: 296px;
+  }
+}
+
+@media screen and (max-width: 925px) {
+  .comments__comment {
+    max-width: 382px;
+    justify-items: center;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .comments__comment {
+    max-width: 100%;
+  }
+}

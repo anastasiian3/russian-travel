@@ -1,0 +1,26 @@
+.video__icon-duration {
+  height: 12px;
+  background-size: cover;
+  margin-top: 94px;
+  margin-left: 30px;
+}
+
+@media screen and (max-width: 1185px) {
+  .video__icon-duration {
+    margin-top: 54px;
+  }
+}
+
+@media screen and (max-width: 945px) {
+  .video__icon-duration {
+    margin-top: 17px;
+    margin-left: 24px;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .video__icon-duration {
+    margin-left: 16px;
+    margin-top: 23px;
+  }
+}

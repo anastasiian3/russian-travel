@@ -1,0 +1,21 @@
+.comments {
+  max-width: 1184px;
+}
+
+@media screen and (max-width: 1100px) {
+  .comments {
+    max-width: 928px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .comments {
+    max-width: calc(100% - 54px * 2);
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .comments {
+    max-width: calc(100% - 16px * 2);
+  }
+}
